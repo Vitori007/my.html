@@ -88,9 +88,7 @@ span{
     color:595959;
 }
 
-tel{
-    color:#161D2A;
-}
+
 li{
     margin:8px 0 12px 16px;
 }
@@ -123,4 +121,11 @@ li{
     color:#161D2A;
     margin-bottom:8px;
 }
-
+/*Contacts*/
+.contacts-type{
+    font-style:normal;
+    font-weight:700;
+    font-size:14px;
+    line-height:24px;
+    color:#161d2a;
+}
