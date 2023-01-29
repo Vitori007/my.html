@@ -1,0 +1,51 @@
+body{
+
+    font-family:"Montserrat", sant-setif;
+
+    background-color: #E5E5E5;
+
+    padding:40px;
+
+}
+
+.wrapper{
+
+     display:flex;
+
+     flex-direction:row-revers;
+
+     background:#ffffff;
+
+     width:1200px;
+
+     margin:0 auto;
+
+}
+
+/*Main content*/
+
+.main-content {
+
+    padding:88px;
+
+}
+
+/* About me*/
+
+.my-profetion{
+
+    margin-bottom:18px;
+
+}
+
+h2{
+
+    font-size:35px;
+
+}
+
+.project-items{
+
+    background-color: yellow;
+
+}
