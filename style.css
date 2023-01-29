@@ -110,16 +110,17 @@ li{
   margin-top:40px;
 }
 
-.contact-conteiner, 
+.contacts-container, 
 .tech-skills-container{
     margin:48px 0 0 40px;
 }
 
-.siddar-title{
+.sidbar-title{
     font-sryle:normal;
     font-weight:700px;
     font-size:22px;
     line-height:27px;
     color:#161D2A;
+    margin-bottom:8px;
 }
 
