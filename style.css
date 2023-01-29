@@ -88,11 +88,6 @@ span{
     color:595959;
 }
 
-aside li{
-    font-size:14px;
-    color:161D2A;
-}
-
 tel{
     color:#161D2A;
 }
@@ -121,5 +116,10 @@ li{
 }
 
 .siddar-title{
+    font-sryle:normal;
+    font-weight:700px;
+    font-size:22px;
+    line-height:27px;
+    color:#161D2A;
 }
 
