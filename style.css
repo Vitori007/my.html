@@ -88,7 +88,12 @@ span{
     font-size:14px;
     color:595959;
 }
+
 aside li{
     font-size:14px;
     color:161D2A;
+}
+
+aside{
+    baground:#E0EBFE;
 }
