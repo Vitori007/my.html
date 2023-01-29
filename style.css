@@ -19,14 +19,13 @@ body{
      width:1200px;
 
      margin:0 auto;
-
 }
 
 /*Main content*/
 
 .main-content {
-
     padding:88px;
+    box-shadow:0 4px 4px 0;
 
 }
 
@@ -40,8 +39,8 @@ body{
     font-size:14px;
 
 }
-h1{
 
+h1{
     font-family:"Montserrat";
     font-style:normal;
     font-size:45px;
