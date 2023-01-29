@@ -104,9 +104,6 @@ tel{
 li{
     margin:8px 0 12px 16px;
 }
-img{
-    margin:40px 0 40px 0;
-}
 
 .project li{
     font-size:14px;
@@ -117,4 +114,8 @@ img{
 .sitbar{
     width:370px;
     baground-color:#EOEBFE;
+}
+
+.my-proto{
+  margin-top:40px;
 }
