@@ -45,7 +45,10 @@ h1{
     font-family:"Montserrat";
     font-style:normal;
     font-size:45px;
+    margin-top:24px;
+    margin-bottom:30px;
 }
+
 h2{
 
     font-size:35px;
