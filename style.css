@@ -12,7 +12,7 @@ body{
 
      display:flex;
 
-     flex-direction:revers;
+     flex-direction:row-revers;
 
      background:#ffffff;
 
