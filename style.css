@@ -93,9 +93,6 @@ aside li{
     color:161D2A;
 }
 
-aside{
-    baground-color:#EOEBFE;
-}
 
 .contac{
     color:#161D2A;
@@ -114,4 +111,10 @@ img{
 .project li{
     font-size:14px;
     color:595959;
+}
+/*Sitbar*/
+
+.sitbar{
+    width:370px;
+    baground-color:#EOEBFE;
 }
