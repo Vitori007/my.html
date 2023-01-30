@@ -32,7 +32,7 @@ body{
 /* About me*/
 .my-profession{
 
-    margin:0px;
+    margin:0 0 18px 0;
     
     font-style:normal;
     
@@ -47,11 +47,11 @@ body{
 }
 
 h1{
-    font-family:"Montserrat";
     font-style:normal;
+    font-weight:700;
     font-size:45px;
-    margin-top:24px;
-    margin-bottom:30px;
+    line-height:55px;
+    color:#000000;
 }
 
 h2{
