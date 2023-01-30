@@ -66,7 +66,9 @@ body{
 about-me-container{
     margin-bottom:64px;
 }
+
 /*Project*/
+
 .main-content-title{
     font-style:normal;
     font-weight:700px;
@@ -82,6 +84,11 @@ about-me-container{
     font-size:14px;
     line-height:24px;
     color:#000000;
+}
+
+project-list{
+    margin:0;
+    padding:0 0 0 12px;
 }
 .lorem-ipsem{
     font-size:14px;
