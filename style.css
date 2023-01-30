@@ -112,6 +112,11 @@ color:#595959;
     color: #005FFF;
 }
 
+/*Work experience*/
+
+.work-experience-container{
+    margin-bottom:44px;
+}
 h3{ 
     font-size:22px;
     font-family:"Montserrat", sant-setif;
