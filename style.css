@@ -90,6 +90,10 @@ project-list{
     margin:0;
     padding:0 0 0 12px;
 }
+
+.projects-conteiner{
+    margin-bottom:48px;
+}
 .lorem-ipsem{
     font-size:14px;
     color: #595959;
