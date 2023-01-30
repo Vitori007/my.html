@@ -96,11 +96,11 @@ project-list{
 }
 
 .project-item-descr{
-font-style:normal;
-font-weight:400px;
-font-size:14px;
-line-height:24px;
-color:#595959;
+     font-style:normal;
+     font-weight:400px;
+     font-size:14px;
+     line-height:24px;
+     color:#595959;
 }
 
 .project-item-link{
@@ -128,7 +128,7 @@ color:#595959;
 }
 
 .work-ecxperience-place{
-   margin-bottom:16px; 
+     margin-bottom:16px; 
 }
 
 .work-ecxperience-company{
@@ -160,6 +160,14 @@ color:#595959;
 .experience li{
     font-size:14px;
     color:595959;
+}
+
+.management{
+    font-style:normal;
+    font-weight:700;
+    font-size:14px;
+    line-height:17px;
+    color:#000000;
 }
 
 /*Sitbar*/
