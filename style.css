@@ -103,10 +103,13 @@ line-height:24px;
 color:#595959;
 }
 
-.lorem-ipsem{
+.project-item-link{
+    font-style:normal;
+    font-weight:400;
     font-size:14px;
-    color: #595959;
-    font-family:"Montserrat", sant-setif;
+    line-height:24px;
+    text-decoration-line:underline;
+    color: #005FFF;
 }
 
 h3{ 
