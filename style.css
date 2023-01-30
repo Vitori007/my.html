@@ -117,6 +117,14 @@ color:#595959;
 .work-experience-container{
     margin-bottom:44px;
 }
+
+.work-ecxperience-position{
+    font-style:normal;
+    font-weight:700;
+    font-size:16px;
+    line-height:20px;
+    color:#000000;
+}
 h3{ 
     font-size:22px;
     font-family:"Montserrat", sant-setif;
