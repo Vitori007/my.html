@@ -46,12 +46,13 @@ body{
 
 }
 
-h1{
+.my-name{
     font-style:normal;
     font-weight:700;
     font-size:45px;
     line-height:55px;
     color:#000000;
+    margin:0px;
 }
 
 h2{
@@ -60,7 +61,7 @@ h2{
 
 }
 
-.project-items{
+.{
 
   
 
