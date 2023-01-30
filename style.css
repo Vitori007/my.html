@@ -32,11 +32,17 @@ body{
 /* About me*/
 .my-profession{
 
-    margin-bottom:18px;
+    margin:0px;
     
-    font-family:"Montserrat", sant-setif;
+    font-style:normal;
+    
+    font-weight:700;
     
     font-size:14px;
+    
+    line-height:17px;
+    
+    color:#000000;
 
 }
 
