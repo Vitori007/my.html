@@ -76,6 +76,11 @@ about-me-container{
     margin:0 0 8px 0;
  }
 
+{font-style:normal;
+font-weight:700px;
+font-size:14px;
+line-height:24px;
+}
 .lorem-ipsem{
     font-size:14px;
     color: #595959;
